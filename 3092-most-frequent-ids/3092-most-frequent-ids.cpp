@@ -12,6 +12,10 @@ public:
             mp[nums[i]] += freq[i];
             pq.push({mp[nums[i]], nums[i]});
 
+            /*
+                Cross checking the value of the frequency from the map because map always contains the accurate frequency of the elements
+                the priority queue may not always be updated correctly
+            */
             while(mp[pq.top().second] != pq.top().first) {
                 pq.pop();
             }
