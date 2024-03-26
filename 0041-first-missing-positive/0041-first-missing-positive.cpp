@@ -16,7 +16,7 @@ public:
         if(!contains1) return 1;
         
         for(int i = 0; i < n; i++){
-            int idx = abs(nums[i]) - 1;
+            int idx = abs(nums[i]) - 1; //? Getting the index from the elements in the array
             
             if(nums[idx] < 0) continue;
             else {
@@ -28,6 +28,7 @@ public:
             if(nums[i] > 0) return i+1;
         }
         
+        //? If all the elements in the range [1, n] are present in the array, then the next possible smalleset number that can exist is the number immediately after n, i.e, n + 1. Therefore we return n + 1;
         return n + 1;
             
     }
