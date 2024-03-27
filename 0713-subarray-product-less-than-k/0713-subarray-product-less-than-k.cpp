@@ -14,7 +14,7 @@ public:
                 prod = prod / nums[i++];
             }
             
-            count += j - i + 1;
+            count += j - i + 1; //? (j - i + 1) gives the number of subarrays that are ending in nums[j] and have product less than k
             j++;
         }
         
