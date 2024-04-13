@@ -1,6 +1,6 @@
 class Solution {
 private:
-    bool checkBipartite(int node, vector<vector<int>> graph, int color[]){
+    bool checkBipartite(int node, vector<vector<int>> &graph, int color[]){
         queue<int> q;
         q.push(node); color[node] = 0;
 
