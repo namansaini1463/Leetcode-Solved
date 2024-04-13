@@ -26,9 +26,10 @@ public:
         int color[V];
         fill_n(color, V, -1);
 
+        // Checking for disconnected components
         for(int i = 0; i < V; i++){
             if(color[i] == -1){
-                if(!checkBipartite(i, graph, color)) return false;
+                if(!checkBipartite(i, graph, color)) return false; // If any disconnected component is non bipartite, then the complete graph is non bipartite
             }
         }
 
