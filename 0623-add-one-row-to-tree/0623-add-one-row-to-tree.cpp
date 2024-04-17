@@ -10,37 +10,46 @@
  * };
  */
 class Solution {
-private:
-    TreeNode* addOneRowUtil(TreeNode *root, int val, int depth, int d){
-        if(!root) return nullptr;
-        
-        if(d == depth - 1){
-            TreeNode *leftSubtree = root->left;
-            TreeNode *rightSubtree = root->right;
-
-            root->left = new TreeNode(val);
-            root->right = new TreeNode(val);
-
-            root->left->left = leftSubtree;
-            root->right->right = rightSubtree;
-
-            return root;
-        }
-
-        root->left = addOneRowUtil(root->left, val, depth, d+1);
-        root->right = addOneRowUtil(root->right, val, depth, d+1);
-
-        return root;
-    }
 public:
     TreeNode* addOneRow(TreeNode* root, int val, int depth) {
-        if(depth == 1){
-            TreeNode * newRoot = new TreeNode(val);
-            newRoot->left = root;
-            return newRoot;
+        if(depth == 1) {
+            TreeNode* newHead = new TreeNode(val);
+            newHead -> left = root;
+            return newHead;
         }
-        
+        queue<TreeNode*> q;
+        q.push(root);
+        q.push(nullptr);
         int d = 1;
-        return addOneRowUtil(root, val, depth, d);
+        
+        while(d != depth-1){
+            auto node = q.front(); q.pop();
+            
+            if(node){
+                if(node->left) q.push(node->left);
+                if(node->right) q.push(node->right);
+            } else {
+                if(!q.empty()){
+                    q.push(nullptr);
+                }
+                d++;
+            }
+        }
+            
+            while(q.size() > 1){
+                auto node = q.front(); q.pop();
+                TreeNode* leftSubtree = node->left;
+                TreeNode* rightSubtree = node->right;
+                
+                node->left = new TreeNode(val);
+                node->right = new TreeNode(val);
+                
+                node->left->left = leftSubtree;
+                node->right->right = rightSubtree;
+            }
+        
+
+        
+        return root;
     }
 };
