@@ -22,7 +22,7 @@ private:
 
 
         if(!root->left and !root->right){
-            if(currentString.size() < smallestString.size() or currentString < smallestString){
+            if(currentString < smallestString){
                 smallestString = currentString;
             }
         }
