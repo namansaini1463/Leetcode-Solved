@@ -23,7 +23,7 @@ public:
                     while (c2 + 1 < m and valid) {
                         // Validating each column individually. Agar koi bhi cell 0 hai ussmei ya koi bhi cell visited hai to valid ko false krdia and break krlia tbhi hi. Aur jo last match hua usse consider krlia.
                         for (int r = r1; r <= r2; r++) {
-                            if (!land[r][c2 + 1] or visited[r][c2 + 1]) {
+                            if (!land[r][c2 + 1]) {
                                 valid = false;
                                 break;
                             }
