@@ -3,13 +3,13 @@ public:
     unordered_set<string> dict;
     unordered_map<int, bool> memo;
 
-    bool wordBreakUtil(int index, const string& s) {
+    bool wordBreakUtil(int index, string& s) {
         if (index == s.size()) return true;
         if (memo.find(index) != memo.end()) return memo[index];
 
-        for (int len = 1; index + len <= s.size(); ++len) {
+        for (int len = 1; index + len <= s.size(); len++) {
             string subString = s.substr(index, len);
-            if (dict.find(subString) != dict.end() && wordBreakUtil(index + len, s))
+            if (dict.find(subString) != dict.end() and wordBreakUtil(index + len, s))
                 return memo[index] = true;
         }
 
