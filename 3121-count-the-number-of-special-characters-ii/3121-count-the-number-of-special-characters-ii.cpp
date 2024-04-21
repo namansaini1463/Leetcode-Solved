@@ -8,19 +8,12 @@ public:
         fill_n(smalls, 26, -1);
 
         for(int i = 0; i < word.size(); i++){
-            // cout << word[i] << endl;
+
             if(word[i] -'a' < 0) {
-                if(capitals[word[i] - 'A'] == -1)
+                if(capitals[word[i] - 'A'] == -1) // Updating the index of the capitals only on the first occurance
                     capitals[word[i] - 'A'] = i;
             }
             else smalls[word[i] - 'a'] = i;
-
-            // for(int i = 0; i < 26; i++){
-            // cout << smalls[i] << " " << capitals[i] << endl;
-            // }
-
-            // cout << endl << endl;
-
         }
 
         
