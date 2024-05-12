@@ -29,7 +29,7 @@ public:
             newHappiness[i] = happiness[i] - i;
         }
 
-        int maxHappiness = 0, i = 0;
+        long long maxHappiness = 0, i = 0;
         while(k--){
             maxHappiness = max(maxHappiness, maxHappiness + newHappiness[i++]);
         }
