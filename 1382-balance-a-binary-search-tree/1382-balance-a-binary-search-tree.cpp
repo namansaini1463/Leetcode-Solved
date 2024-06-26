@@ -43,7 +43,8 @@ public:
         vector<int> inorder;
         getInorderTraversal(root, inorder);
         
-        root = buildTree(0, inorder.size()-1, inorder);
+        int left = 0, right = inorder.size() - 1;
+        root = buildTree(left, right, inorder);
         
         return root;
     }
