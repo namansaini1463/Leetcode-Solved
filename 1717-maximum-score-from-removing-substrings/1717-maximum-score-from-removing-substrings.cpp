@@ -7,10 +7,7 @@ public:
         int firstSubstringCount = 0;
         int secondSubstringCount = 0;
         
-        //Greedily selecting the string which has the larger value to be processed firstSubstring
-        // (x > y) ? firstSubstring = "ab" : firstSubstring = "ba";
-        // (x > y) ? secondSubstring = "ba" : secondSubstring = "ab";
-
+        //Greedily selecting the string which has the larger value to be processed first
         if(x > y){
             firstSubstring = "ab";
             secondSubstring = "ba";
@@ -24,6 +21,7 @@ public:
         }
 
 
+        //Finding the number of occurances of the first substring and removing the substring from the string
         int i = 1;
         while(i < s.size()){
             if(i > 0 and s[i-1] == firstSubstring[0] and s[i] == firstSubstring[1]){
@@ -36,6 +34,7 @@ public:
             i++;
         }
         
+        //Finding the number of occurances of the second substring and removing the substring from the string
         i = 1;
         while(i < s.size()){
             if(i > 0 and s[i-1] == secondSubstring[0] and s[i] == secondSubstring[1]){
