@@ -16,10 +16,8 @@ public:
                 st.push(nums2[i]);
             }
         }
-
-        for(const auto &i : nextGreaterElements) cout << i.first << " " << i.second << endl;
-        cout << endl;
-
+        // for(const auto &i : nextGreaterElements) cout << i.first << " " << i.second << endl;
+        // cout << endl;
         vector<int> result;
 
         for(const auto &num : nums1){
