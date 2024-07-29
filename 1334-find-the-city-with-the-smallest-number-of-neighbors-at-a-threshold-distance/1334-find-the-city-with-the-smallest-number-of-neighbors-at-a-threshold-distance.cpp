@@ -29,6 +29,8 @@ public:
 
         int minNeighboursCount = INT_MAX;
         int cityWithSmallestNumberOfNeighbors = n;
+        
+        
         for(int i = 0; i < n; i++){
             int neighbourCount = 0;
             for(int j = 0; j < n; j++){
