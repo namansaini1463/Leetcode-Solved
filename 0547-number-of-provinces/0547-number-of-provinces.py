@@ -24,6 +24,8 @@ class DisjointSet:
             self.parent[rootV] = rootU
             self.size[rootU] += self.size[rootV]
 
+        return True
+
 
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
