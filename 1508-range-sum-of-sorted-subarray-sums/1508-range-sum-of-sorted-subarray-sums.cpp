@@ -2,13 +2,12 @@ class Solution {
 public:
     int rangeSum(vector<int>& nums, int n, int left, int right) {
         priority_queue<int, vector<int>, greater<int>> subArraySums;
-        for(int i = 0; i < n; i++){
-            for(int j = i; j < n; j++){
-                int subArraySum = 0;
-                for(int idx = i; idx <= j; idx++){
-                    subArraySum += nums[idx];
-                }
-                subArraySums.push(subArraySum);
+        int currentSum = 0;
+        for (int start = 0; start < n; start++) {
+            currentSum = 0;
+            for (int end = start; end < n; end++) {
+                currentSum += nums[end];
+                subArraySums.push(currentSum);
             }
         }
 
