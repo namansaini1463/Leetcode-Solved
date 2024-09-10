@@ -22,6 +22,15 @@ private:
 
         return gcd;
     }
+
+    int getGCDOptimised(int num1, int num2) {
+    while (num2 != 0) {
+        int temp = num2;
+        num2 = num1 % num2;
+        num1 = temp;
+    }
+    return num1;
+}
 public:
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
         if(!head->next) return head;
@@ -29,7 +38,7 @@ public:
         ListNode *num1 = head, *num2 = head->next;
 
         while(num1->next){
-            int gcdVal = getGCD(num1->val, num2->val);
+            int gcdVal = getGCDOptimised(num1->val, num2->val);
             ListNode *gcd = new ListNode(gcdVal);
             num1->next = gcd;
             gcd->next = num2;
