@@ -1,12 +1,12 @@
 class Solution {
 private:
     bool isVowel(char ch) {
-        static const unordered_set<char> vowels = {'a', 'e', 'i', 'o', 'u'};
+        unordered_set<char> vowels = {'a', 'e', 'i', 'o', 'u'};
         return vowels.count(ch) > 0;
     }
 
     bool checkString(const string& s) {
-        return isVowel(s.front()) && isVowel(s.back());
+        return isVowel(s.front()) and isVowel(s.back());
     }
 public:
     vector<int> vowelStrings(vector<string>& words, vector<vector<int>>& queries) {
