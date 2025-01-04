@@ -38,7 +38,7 @@ public:
                 towards a plaindromic subsequnece of length 3
             */
             unordered_set<char> uniqueChars;
-            cout << ch << " " << firstOccuranceFromLeft << " " << firstOccuranceFromRight << endl;
+            // cout << ch << " " << firstOccuranceFromLeft << " " << firstOccuranceFromRight << endl;
             for(int i = firstOccuranceFromLeft + 1; i < firstOccuranceFromRight; ++i){
                 uniqueChars.insert(s[i]);
             }
