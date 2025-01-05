@@ -1,5 +1,22 @@
 class Solution {
 public:
+    /*
+        O(1) space
+    */
+    string shiftingLetters(string s, vector<int>& shifts) {
+        long long sum = 0;
+       
+        for(int i = shifts.size() - 1;i >= 0; i--){
+            sum = sum + shifts[i];
+            s[i] = 'a' + (s[i] - 'a' + sum) % 26;
+        }
+
+        return s;
+    }
+    /*
+        O(n) space
+    */
+    /*
     string shiftingLetters(string s, vector<int>& shifts) {
         int n = shifts.size();
 
@@ -16,4 +33,5 @@ public:
 
         return s;
     }
+    */
 };
