@@ -19,13 +19,13 @@ class Solution {
 
       if (x == n - 1 and y == m - 1) return cost;
 
-      for (int i = 0; i < 4; i++) {
-        int newX = x + directions[i].first;
-        int newY = y + directions[i].second;
+      for (int i = 1; i <= 4; i++) {
+        int newX = x + directions[i-1].first;
+        int newY = y + directions[i-1].second;
 
         // Ensure new coordinates are within bounds
         if (newX >= 0 and newX < n and newY >= 0 and newY < m) {
-          int newCost = cost + (grid[x][y] == i + 1 ? 0 : 1);  // No cost if direction matches, else +1
+          int newCost = cost + (grid[x][y] == i ? 0 : 1);  // No cost if direction matches, else +1
 
           // Update the cost if a lower cost path is found
           if (newCost < minCost[newX][newY]) {
