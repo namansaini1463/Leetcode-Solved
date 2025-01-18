@@ -23,11 +23,10 @@ class Solution {
         int newX = x + directions[i-1].first;
         int newY = y + directions[i-1].second;
 
-        // Ensure new coordinates are within bounds
         if (newX >= 0 and newX < n and newY >= 0 and newY < m) {
-          int newCost = cost + (grid[x][y] == i ? 0 : 1);  // No cost if direction matches, else +1
+          int newCost = cost + (grid[x][y] == i ? 0 : 1);  // Current cell jis direction mei lekr jaara hai usski cost 0 hi rahegi, else +1
 
-          // Update the cost if a lower cost path is found
+          // Update the cost if a lower cost path is found (dijkstra approach)
           if (newCost < minCost[newX][newY]) {
             minCost[newX][newY] = newCost;
             pq.push({newCost, {newX, newY}});
