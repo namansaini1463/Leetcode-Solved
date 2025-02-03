@@ -19,9 +19,10 @@ public:
                 currentDecreasing = 1;
             }
         }
-
+        
         maxIncreasing = max(maxIncreasing, currentIncreasing);
         maxDecreasing = max(maxDecreasing, currentDecreasing);
+
         return max(maxIncreasing, maxDecreasing);
     }
 };
