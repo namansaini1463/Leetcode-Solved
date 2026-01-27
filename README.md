@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
@@ -121,5 +122,6 @@
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
