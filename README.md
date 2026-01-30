@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [1200-minimum-absolute-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-string-matching-in-an-array) |
@@ -48,6 +49,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [1876-map-of-highest-peak](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2685-first-completely-painted-row-or-column) |
@@ -62,6 +64,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
+| [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [1876-map-of-highest-peak](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Depth-First Search
@@ -69,6 +72,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
+| [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
@@ -140,4 +144,16 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Binary Search
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
+## Union-Find
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
