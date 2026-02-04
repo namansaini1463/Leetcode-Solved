@@ -25,6 +25,8 @@ class Solution {
         while (!pq.isEmpty()) {
             int[] curr = pq.poll();
 
+            // If the current time/distance is even, then I am free to move to the next node.
+            // else, i have to wait until the signal toggles, so that i can move. The wait time would be the below formula
             int d = (curr[0] / change) % 2 == 0 ? curr[0] : ((curr[0] / change) + 1) * change;
             int node = curr[1];
 
