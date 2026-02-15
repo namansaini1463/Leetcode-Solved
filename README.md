@@ -31,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
 | [1524-string-matching-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-string-matching-in-an-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -55,6 +56,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
 |  |
@@ -105,6 +107,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3447-clear-digits) |
 ## Stack
@@ -115,6 +118,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Design
