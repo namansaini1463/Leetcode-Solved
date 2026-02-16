@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0190-reverse-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
 |  |
@@ -212,4 +213,8 @@
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3713-longest-balanced-substring-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
