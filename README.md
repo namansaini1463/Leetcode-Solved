@@ -60,6 +60,7 @@
 | [0190-reverse-bits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0190-reverse-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0868-binary-gap) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
 |  |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3447-clear-digits) |
 ## Stack
@@ -124,6 +126,7 @@
 | [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Design
 |  |
