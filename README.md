@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0001-two-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1980-find-unique-binary-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2685-first-completely-painted-row-or-column) |
@@ -104,6 +105,7 @@
 | [0110-balanced-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
@@ -181,6 +183,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
@@ -206,6 +209,7 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
