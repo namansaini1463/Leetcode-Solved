@@ -1,4 +1,52 @@
 class Solution {
+    public int longestCycle(int[] edges) {
+        int n = edges.length;
+
+        int[] indegree = new int[n];
+        for(int edge : edges){
+            if(edge == -1) continue;
+
+            indegree[edge]++;
+        }
+
+        Deque<Integer> topoSortQueue = new ArrayDeque<>();
+        
+        for(int i = 0; i < n; i++){
+            if(indegree[i] == 0) topoSortQueue.offer(i);
+        }
+
+        while(!topoSortQueue.isEmpty()){
+            int first = topoSortQueue.poll();
+
+            int adj = edges[first];
+            if(adj != -1){
+                indegree[adj]--;
+                if(indegree[adj] == 0) topoSortQueue.offer(adj);
+            }
+        }
+
+        int maxCycleLength = -1;
+        for(int i = 0; i < n; i++){
+            if(indegree[i] > 0){
+                int cycleLength = 0;
+                while(indegree[i] > 0){
+                    indegree[i]--;
+                    i = edges[i];
+                    cycleLength++;
+                
+                }
+                maxCycleLength = Math.max(maxCycleLength, cycleLength);
+            }
+        }
+
+        // System.out.println(Arrays.toString(indegree));
+
+        return maxCycleLength;
+    }
+}
+
+/** 
+class Solution {
     public int dfsAndCount(int node, int n, int[] edges, boolean[] visited, boolean[] inRecursion, int[] size){
         inRecursion[node] = true;
         visited[node] = true;
@@ -46,3 +94,4 @@ class Solution {
         return maxCycle;
     }
 }
+*/
