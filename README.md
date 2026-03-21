@@ -31,6 +31,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3637-trionic-array-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3637-trionic-array-i) |
 ## String
 |  |
@@ -85,6 +86,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | [1200-minimum-absolute-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Sliding Window
 |  |
 | ------- |
