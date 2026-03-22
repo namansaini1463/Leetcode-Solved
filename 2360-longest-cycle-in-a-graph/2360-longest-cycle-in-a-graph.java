@@ -2,6 +2,40 @@ class Solution {
     public int longestCycle(int[] edges) {
         int n = edges.length;
 
+        int[] timeStamp = new int[n];
+        Arrays.fill(timeStamp, -1);
+        
+        int time = 0;
+        int maxCycle = -1;
+
+        for(int node = 0; node < n; node++){
+            if(timeStamp[node] == -1){ 
+
+                int startTime = time;
+                int currentNode = node;
+
+                while(currentNode != -1 && timeStamp[currentNode] == -1){
+                    timeStamp[currentNode] = time++;
+                    currentNode = edges[currentNode];
+                }
+
+                if(currentNode != -1 && timeStamp[currentNode] >= startTime) {
+                    maxCycle = Math.max(maxCycle, time - timeStamp[currentNode]);
+                }
+            }
+        }
+
+        return maxCycle;
+    }
+}
+
+
+
+/*
+class Solution {
+    public int longestCycle(int[] edges) {
+        int n = edges.length;
+
         int[] indegree = new int[n];
         for(int edge : edges){
             if(edge == -1) continue;
@@ -44,6 +78,7 @@ class Solution {
         return maxCycleLength;
     }
 }
+*/
 
 /** 
 class Solution {
