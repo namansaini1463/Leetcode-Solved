@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0001-two-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0752-open-the-lock](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [1200-minimum-absolute-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
@@ -41,6 +42,7 @@
 | [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0752-open-the-lock) |
 | [1524-string-matching-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-string-matching-in-an-array) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -61,6 +63,7 @@
 | [0001-two-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0752-open-the-lock) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1980-find-unique-binary-string) |
@@ -109,6 +112,7 @@
 | [0127-word-ladder](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
