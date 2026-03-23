@@ -2,6 +2,8 @@ class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         Set<String> wordListSet = new HashSet<>(wordList);
 
+        char[] letters = "abcdefghijklmnopqrstuvwxyz".toCharArray();
+
         if(!wordListSet.contains(endWord)) return 0;
 
         int transformationLength = 1;
@@ -26,7 +28,7 @@ class Solution {
                 for(int i = 0; i < currentArray.length; i++){
                     char currentChar = currentArray[i];
 
-                    for(char ch : "abcdefghijklmnopqrstuvwxyz".toCharArray()){
+                    for(char ch : letters){
                         currentArray[i] = ch;   
 
                         String newString = new String(currentArray);
