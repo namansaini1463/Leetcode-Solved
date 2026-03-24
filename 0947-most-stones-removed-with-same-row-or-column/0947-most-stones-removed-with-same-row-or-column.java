@@ -21,11 +21,11 @@ class DSU {
         return findUltimateParent(u) == findUltimateParent(v);
     }
 
-    public void union(int u, int v){
+    public boolean union(int u, int v){
         int parentU = findUltimateParent(u);
         int parentV = findUltimateParent(v);
 
-        if(parentU == parentV) return;
+        if(parentU == parentV) return false;
 
         if(size[parentU] > size[parentV]){
             parent[parentV] = parentU;
@@ -34,6 +34,8 @@ class DSU {
             parent[parentU] = parentV;
             size[parentV] += size[parentU];
         }
+
+        return true;
     }
 }
 
@@ -48,13 +50,13 @@ class Solution {
         for(int i = 0; i < n; i++){
             for(int j = i+1; j < n; j++){
                 int r1 = stones[i][0];
-                int r2 = stones[j][0];
                 int c1 = stones[i][1];
+                
+                int r2 = stones[j][0];
                 int c2 = stones[j][1];
 
                 if(r1 == r2 || c1 == c2){
-                    if(!dsu.find(i, j)){
-                        dsu.union(i, j);
+                    if(dsu.union(i, j)){
                         components--;
                     }
                 }
