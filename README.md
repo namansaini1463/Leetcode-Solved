@@ -17,6 +17,7 @@
 | [1876-map-of-highest-peak](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1980-find-unique-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2145-grid-game](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2145-grid-game) |
@@ -89,6 +90,7 @@
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2145-grid-game) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -116,6 +118,7 @@
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2360-longest-cycle-in-a-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2360-longest-cycle-in-a-graph) |
