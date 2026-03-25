@@ -121,6 +121,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -133,6 +134,7 @@
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
@@ -217,6 +219,7 @@
 | [2045-second-minimum-time-to-reach-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -241,6 +244,7 @@
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
