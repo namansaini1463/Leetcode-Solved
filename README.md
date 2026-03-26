@@ -34,6 +34,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3546-equal-sum-grid-partition-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3637-trionic-array-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
@@ -101,6 +102,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
@@ -110,6 +112,7 @@
 | [2145-grid-game](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2145-grid-game) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3546-equal-sum-grid-partition-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -281,6 +284,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
