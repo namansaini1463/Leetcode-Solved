@@ -27,6 +27,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -100,6 +101,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3546-equal-sum-grid-partition-i) |
@@ -166,6 +168,7 @@
 | [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3447-clear-digits) |
 ## Stack
@@ -180,6 +183,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Design
 |  |
