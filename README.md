@@ -15,6 +15,7 @@
 | [1524-string-matching-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-string-matching-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1876-map-of-highest-peak](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -218,6 +219,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
@@ -228,6 +230,7 @@
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1200-minimum-absolute-difference) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -242,6 +245,7 @@
 | [0785-is-graph-bipartite](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
@@ -275,6 +279,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Heap (Priority Queue)
 |  |
