@@ -22,6 +22,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1980-find-unique-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2101-detonate-the-maximum-bombs](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2101-detonate-the-maximum-bombs) |
 | [2145-grid-game](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2145-grid-game) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -137,6 +138,7 @@
 | [1876-map-of-highest-peak](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2045-second-minimum-time-to-reach-destination) |
+| [2101-detonate-the-maximum-bombs](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2101-detonate-the-maximum-bombs) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2360-longest-cycle-in-a-graph) |
@@ -156,6 +158,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
+| [2101-detonate-the-maximum-bombs](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -189,6 +192,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2101-detonate-the-maximum-bombs](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2101-detonate-the-maximum-bombs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Design
@@ -202,6 +206,7 @@
 ## Geometry
 |  |
 | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2101-detonate-the-maximum-bombs) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Tree
 |  |
@@ -249,6 +254,7 @@
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2045-second-minimum-time-to-reach-destination) |
+| [2101-detonate-the-maximum-bombs](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2101-detonate-the-maximum-bombs) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
