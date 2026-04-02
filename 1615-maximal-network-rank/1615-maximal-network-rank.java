@@ -19,10 +19,8 @@ class Solution {
         int maxNetworkRank = 0;
 
         for(int i = 0; i < n; i++){
-            for(int j = 0; j < n; j++){
-                if(i != j){
-                    maxNetworkRank = Math.max(maxNetworkRank, indegree[i] + indegree[j] - (adj.get(i).contains(j) ? 1 : 0));
-                }
+            for(int j = i+1; j < n; j++){
+                maxNetworkRank = Math.max(maxNetworkRank, indegree[i] + indegree[j] - (adj.get(i).contains(j) ? 1 : 0));
             }
         }
 
