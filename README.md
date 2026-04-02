@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0001-two-sum) |
+| [0399-evaluate-division](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0399-evaluate-division) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0127-word-ladder) |
+| [0399-evaluate-division](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0752-open-the-lock) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
@@ -127,6 +129,7 @@
 | [0127-word-ladder](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
@@ -151,6 +154,7 @@
 | [0110-balanced-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0399-evaluate-division) |
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -247,6 +251,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0399-evaluate-division) |
 | [0785-is-graph-bipartite](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -264,6 +269,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0399-evaluate-division) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2045-second-minimum-time-to-reach-destination) |
@@ -280,6 +286,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0399-evaluate-division) |
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
