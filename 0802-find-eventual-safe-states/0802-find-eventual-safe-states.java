@@ -1,47 +1,42 @@
 class Solution {
+    int[][] graph;
+    boolean[] visited;
+    boolean[] visiting;
+
+    private boolean dfs(int node){ // Detects the cycle in the graph using DFS
+        visiting[node] = true;
+
+        for(int adjNode : graph[node]){
+            if(!visited[adjNode]){
+                if(visiting[adjNode]) return true;
+                if(dfs(adjNode)) return true;
+            } 
+        }
+
+        visiting[node] = false;
+        visited[node] = true;
+
+        return false; // No cycle detectedx
+    }
+
     public List<Integer> eventualSafeNodes(int[][] graph) {
         int n = graph.length;
 
-        List<List<Integer>> reversed = new ArrayList<>();
+        this.graph = graph;
+        this.visited = new boolean[n];
+        this.visiting = new boolean[n];
+
         for(int i = 0; i < n; i++){
-            reversed.add(new ArrayList<>());
-        }
-
-        int[] indegree = new int[n];
-
-        for(int node = 0; node < n; node++){
-            for(int adjNode : graph[node]){
-                reversed.get(adjNode).add(node);
-                // System.out.println(adjNode + " -> " + node);
-                indegree[node]++;
+            if(!visited[i]){
+                dfs(i);
             }
-        }
-
-        Deque<Integer> q = new ArrayDeque<>();
-
-        for(int i = 0; i < n; i++){
-            if(indegree[i] == 0) q.offer(i);
         }
 
         List<Integer> result = new ArrayList<>();
 
-        while(!q.isEmpty()){
-            int node = q.poll();
-            result.add(node);
-
-            for(int adjNode : reversed.get(node)){
-                indegree[adjNode]--;
-
-                if(indegree[adjNode] == 0){
-                    q.offer(adjNode);
-                }
-            }
+        for(int i = 0; i < n; i++){
+            if(!visiting[i]) result.add(i);
         }
-
-        Collections.sort(result);
-
-        // System.out.println(reversed);
-        // System.out.println(Arrays.toString(indegree));
 
         return result;
     }
