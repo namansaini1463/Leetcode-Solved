@@ -135,6 +135,7 @@
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
@@ -158,6 +159,7 @@
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -254,6 +256,7 @@
 | [0399-evaluate-division](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0399-evaluate-division) |
 | [0785-is-graph-bipartite](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1615-maximal-network-rank](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1615-maximal-network-rank) |
@@ -313,6 +316,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2360-longest-cycle-in-a-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 ## Enumeration
