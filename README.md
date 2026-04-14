@@ -27,6 +27,7 @@
 | [2145-grid-game](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2145-grid-game) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2463-minimum-total-distance-traveled](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2463-minimum-total-distance-traveled) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -244,6 +245,7 @@
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2463-minimum-total-distance-traveled](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2463-minimum-total-distance-traveled) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Sliding Window
 |  |
@@ -313,6 +315,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2463-minimum-total-distance-traveled](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2463-minimum-total-distance-traveled) |
 ## Topological Sort
 |  |
 | ------- |
