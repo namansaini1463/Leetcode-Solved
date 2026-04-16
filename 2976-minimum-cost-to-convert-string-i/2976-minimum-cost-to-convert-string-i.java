@@ -1,165 +1,40 @@
-/*
 class Solution {
-    private void addMinimumEdge(List<List<int[]>> adj, int u, int v, int w) {
-        for (int[] edge : adj.get(u)) {
-            int from = edge[0];
-            int weight = edge[1];
+    public long minimumCost(String source, String target, char[] original, char[] changed, int[] cost) {
+        int n = original.length;
+        // source se target jaane ka shortest paths nikaal lunga mai saare
+        long[][] dist = new long[26][26];
 
-            if (from == v) {
-                edge[1] = Math.min(weight, w);
-                return;
-            }
+        for(int i = 0; i < 26; i++){
+            Arrays.fill(dist[i], Long.MAX_VALUE);
+            dist[i][i] = 0;
         }
 
-        adj.get(u).add(new int[] { v, w });
-    }
+        for(int i = 0; i < n; i++){
+            dist[(int)original[i] - 'a'][(int)changed[i] - 'a'] = Math.min(cost[i], dist[(int)original[i] - 'a'][(int)changed[i] - 'a']);
+        }
 
-    private int getMinCost(List<List<int[]>> adj, int u, int v) {
-        int[] minCost = new int[26];
-        Arrays.fill(minCost, Integer.MAX_VALUE);
-        minCost[u] = 0;
+        // run floyd warshall to find all pair shortest path
+        for(int k = 0; k < 26; k++){
+            for(int i = 0; i < 26; i++){
+                for(int j = 0; j < 26; j++){
+                    if(dist[i][k] == Long.MAX_VALUE || dist[k][j] == Long.MAX_VALUE) continue;
 
-        PriorityQueue<int[]> pq = new PriorityQueue<>(Comparator.comparingInt(a -> a[0]));
-        pq.add(new int[] { 0, u });
-
-        while (!pq.isEmpty()) {
-            int[] pair = pq.poll();
-            int distance = pair[0];
-            int node = pair[1];
-            
-            if(distance > minCost[node]) continue;
-            
-            if (node == v) return distance;
-
-            for (int[] edge : adj.get(node)) {
-                int nei = edge[0];
-                int w = edge[1];
-
-
-                if (distance + edge[1] < minCost[nei]) {
-                    minCost[nei] = distance + edge[1];
-                    pq.add(new int[] { distance + edge[1], nei });
+                    dist[i][j] = Math.min(dist[i][j], dist[i][k] + dist[k][j]);
                 }
             }
         }
 
-        return -1;
-    }
+        // calculate the cost
+        long resultCost = 0;
 
-    public long minimumCost(String source, String target, char[] original, char[] changed, int[] cost) {
-        int n = original.length;
+        int len = source.length();
+        for(int i = 0; i < len; i++){
+            long currentCost = dist[(int)source.charAt(i) - 'a'][(int)target.charAt(i) - 'a'];
+            if(currentCost == Long.MAX_VALUE) return -1;
 
-        int sourceLength = source.length();
-
-        List<List<int[]>> adjList = new ArrayList<>();
-        for (int i = 0; i < 26; i++) {
-            adjList.add(new ArrayList<>());
+            resultCost += currentCost;
         }
 
-        for (int i = 0; i < n; i++) {
-            int u = original[i] - 'a';
-            int v = changed[i] - 'a';
-            int w = cost[i];
-
-            addMinimumEdge(adjList, u, v, w);
-        }
-
-        long minCost = 0;
-        for (int i = 0; i < sourceLength; i++) {
-            int u = source.charAt(i) - 'a';
-            int v = target.charAt(i) - 'a';
-
-            int currentMinCostForU_V = getMinCost(adjList, u, v);
-
-            if (currentMinCostForU_V == -1)
-                return -1;
-            minCost += currentMinCostForU_V;
-        }
-
-        // for (int i = 0; i < 26; i++) {
-        //     System.out.print(i + ": ");
-        //     for (int[] edge : adjList.get(i)) {
-        //         System.out.println(edge[0] + " " + edge[1]);
-        //     }
-        //     System.out.println();
-        // }
-
-        return minCost;
-
+        return resultCost;
     }
 }
-*/
-
-
-
-class Solution {
-    private void addMinimumEdge(List<List<int[]>> adj, int u, int v, int w){
-        for(int[] edge : adj.get(u)){
-            int from = edge[0];
-            int weight = edge[1];
-
-            if(from == v){
-                edge[1] = Math.min(weight, w);
-                return;
-            }
-        }
-
-        adj.get(u).add(new int[]{v, w});
-    }
-
-
-    public long minimumCost(String source, String target, char[] original, char[] changed, int[] cost) {
-        int n = original.length;
-
-        int sourceLength = source.length();
-
-        int[][] allPairMinDistances = new int[26][26];
-        for(int u = 0; u < 26; u++){
-            for(int v = 0; v < 26; v++){
-                allPairMinDistances[u][v] = (u == v ) ?  0 : (int)1e9;
-            }
-        }
-
-        for (int i = 0; i < n; i++) {
-            int u = original[i] - 'a';
-            int v = changed[i] - 'a';
-            int w = cost[i];
-
-            allPairMinDistances[u][v] = Math.min(allPairMinDistances[u][v], w);
-        }
-
-
-        for(int via = 0; via < 26; via++){
-            for(int u = 0; u < 26; u++){
-                for(int v = 0; v < 26; v++){
-                    allPairMinDistances[u][v] = Math.min(allPairMinDistances[u][v], allPairMinDistances[u][via] +  allPairMinDistances[via][v]);
-                }
-            }
-        }
-
-        long minCost = 0;
-        for(int i = 0; i < sourceLength; i++){
-            int u = source.charAt(i) - 'a';
-            int v = target.charAt(i) - 'a';
-
-
-            if(allPairMinDistances[u][v] == (int)1e9) return -1;
-            
-            minCost += allPairMinDistances[u][v];
-        }
-
-        // System.out.println(Arrays.deepToString(allPairMinDistances));
-        
-
-        // for (int u = 0; u < adjList.size(); u++) {
-        //     System.out.print(u + " -> ");
-        //     for (int[] edge : adjList.get(u)) {
-        //         System.out.print("(" + edge[0] + ", " + edge[1] + ") ");
-        //     }
-        //     System.out.println();
-        // }
-
-        return minCost;
-    }
-}
-
