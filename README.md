@@ -126,6 +126,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2145-grid-game) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3546-equal-sum-grid-partition-i) |
@@ -156,6 +157,7 @@
 | [2360-longest-cycle-in-a-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -283,6 +285,7 @@
 | [2392-build-a-matrix-with-conditions](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2392-build-a-matrix-with-conditions) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Shortest Path
 |  |
 | ------- |
