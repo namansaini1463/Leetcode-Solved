@@ -248,6 +248,7 @@
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
 | ------- |
@@ -286,6 +287,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
 |  |
 | ------- |
@@ -305,6 +307,7 @@
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [3488-closest-equal-element-queries](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3488-closest-equal-element-queries) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
 | ------- |
@@ -317,6 +320,7 @@
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -358,4 +362,8 @@
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1980-find-unique-binary-string) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
