@@ -1,32 +1,17 @@
 class Solution {
     public int maxDistance(int[] nums1, int[] nums2) {
-        int n1 = nums1.length;
-        int n2 = nums2.length;
+        int i = 0, j = 0;
         int result = 0;
 
-        for(int i = 0; i < n1; i++){
-            // Binary search for best j
-            int j = -1;
-            int low = i, high = n2-1;
-
-            while(low <= high){
-                int mid = low + (high - low) / 2;
-
-                if(nums2[mid] >= nums1[i]){
-                    j = mid;
-                    low = mid + 1;
-                } else {
-                    high = mid - 1;
-                }
-            }
-
-            if(j != -1){
-                // System.out.printf("i, j = %d, %d \n", i, j);
+        while (i < nums1.length && j < nums2.length) {
+            if (nums2[j] >= nums1[i]) {
                 result = Math.max(result, j - i);
+                j++;                  // valid pair, try extending j
+            } else {
+                i++;                  // nums1[i] too large, move i
+                if (j < i) j = i;    // j must always be >= i
             }
-
         }
-
 
         return result;
     }
