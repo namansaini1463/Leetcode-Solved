@@ -1,99 +1,93 @@
+class DSU{
+    int[] parent;
+    int[] size;
+
+    public DSU(int n){
+        this.parent = new int[n];
+        for(int i = 0; i < n; i++) parent[i] = i;
+
+        this.size = new int[n];
+        Arrays.fill(size, 1);
+    }
+
+    public int findUltimateParent(int u){
+        if(parent[u] == u) return u;
+
+        return parent[u] = findUltimateParent(parent[u]);
+    }
+
+    public boolean find(int u, int v){
+        return findUltimateParent(u) == findUltimateParent(v);
+    }
+
+    public boolean union(int u, int v){
+        int parentU = findUltimateParent(u);
+        int parentV = findUltimateParent(v);
+
+        if(parentU == parentV) return false;
+
+        if(size[parentV] > size[parentU]){
+            size[parentV] += size[parentU];
+            parent[parentU] = parentV;
+        } else {
+            size[parentU] += size[parentV];
+            parent[parentV] = parentU;
+        }
+
+        return true;
+
+    }
+}
+
 class Solution {
-    private Map<Integer, TreeSet<Integer>> map = new HashMap<>();
-    private ArrayList<Integer> stationToGrid;
-    private boolean[] isOffline;
-    private int connectionsCount = 0;
+    public int[] processQueries(int n, int[][] connections, int[][] queries) {
 
-    public void dfs(int u, boolean[] visited, ArrayList<ArrayList<Integer>> adjList, TreeSet<Integer> connectedNodes){
-        visited[u] = true;
-        connectedNodes.add(u);
-        stationToGrid.set(u, connectionsCount);
+        List<Integer> resultList = new ArrayList<>();
+        HashMap<Integer, TreeSet<Integer>> map = new HashMap<>();
 
-        for(int v : adjList.get(u)){
-            if(!visited[v]){
-                dfs(v, visited, adjList, connectedNodes);
-            }
-        }
-    }
+        DSU dsu = new DSU(n + 1);
 
-    public int countAndInitializeMap(int c, ArrayList<ArrayList<Integer>> adjList){
-        // Visited array
-        boolean[] visited = new boolean[c+1];
-
-        for(int i = 1; i <= c; i++){
-            if(!visited[i]){
-                connectionsCount++;
-                TreeSet<Integer> connectedNodes = new TreeSet<>();
-                dfs(i, visited, adjList, connectedNodes);
-                // System.out.println(connectionsCount + " : " + connectedNodes);
-                map.put(connectionsCount, connectedNodes);
-            }
+        // Step 1: Build DSU
+        for(int[] conn : connections){
+            dsu.union(conn[0], conn[1]);
         }
 
-        return connectionsCount;
-    }
-    
-    public int[] processQueries(int c, int[][] connections, int[][] queries) {
-        this.isOffline = new boolean[c+1];
-        this.stationToGrid = new ArrayList<>(Collections.nCopies(c+1, -1));
-
-        ArrayList<ArrayList<Integer>> adjList = new ArrayList<>(Collections.nCopies(c+1, null));
-        for(int i = 1; i <= c; i++){
-            adjList.set(i, new ArrayList<Integer>());
+        // Step 2: Build component -> nodes mapping
+        for(int i = 1; i <= n; i++){
+            int parent = dsu.findUltimateParent(i);
+            map.computeIfAbsent(parent, k -> new TreeSet<>()).add(i);
         }
 
-        for(int connection[] : connections){
-            int u = connection[0];
-            int v = connection[1];
-
-            adjList.get(u).add(v);
-            adjList.get(v).add(u);
-        }
-
-        // System.out.println(adjList.toString());
-        // System.out.println(countAndInitializeMap(c, adjList));
-        countAndInitializeMap(c, adjList);
-        // System.out.println(map);
-        // System.out.println(stationToGrid);
-
-        // Initialize resultList
-        ArrayList<Integer> result = new ArrayList<>();
-
-        // Process Queries
+        // Step 3: Process queries
         for(int[] query : queries){
+
             int type = query[0];
-            int station = query[1];
+            int node = query[1];
+
+            int parent = dsu.findUltimateParent(node);
+            TreeSet<Integer> set = map.get(parent);
 
             if(type == 1){
-                if(this.isOffline[station]){
-                    int grid = stationToGrid.get(station);
 
-                    boolean smallestFound = false;
-                    
-                    while(map.get(grid).size() > 0){
-                        int gridSmallest = map.get(grid).first();
-
-                        if(this.isOffline[gridSmallest]) {
-                            map.get(grid).pollFirst();
-                        } else {
-                            result.add(gridSmallest); 
-                            smallestFound = true;
-                            break;
-                        }
-                    }
-
-                    if(!smallestFound){
-                        result.add(-1);
-                    }
-                    
-                } else {
-                    result.add(station);
+                if(set.contains(node)){
+                    resultList.add(node);
+                } 
+                else if(!set.isEmpty()){
+                    resultList.add(set.first());
                 }
-            } else if(type == 2){
-                this.isOffline[station] = true;
+                else{
+                    resultList.add(-1);
+                }
+
+            }
+            else{
+                if(set != null){
+                    set.remove(node);
+                }
+
             }
         }
 
-        return result.stream().mapToInt(Integer::intValue).toArray();
+        return resultList.stream().mapToInt(i -> i).toArray();
     }
 }
