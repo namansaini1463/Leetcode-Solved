@@ -61,6 +61,7 @@
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1524-string-matching-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-string-matching-in-an-array) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1980-find-unique-binary-string) |
@@ -150,6 +151,7 @@
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1462-course-schedule-iv](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1462-course-schedule-iv) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -178,6 +180,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1462-course-schedule-iv](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1462-course-schedule-iv) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [2101-detonate-the-maximum-bombs](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -364,6 +367,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
