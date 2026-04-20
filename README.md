@@ -25,6 +25,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1980-find-unique-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2101-detonate-the-maximum-bombs](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2101-detonate-the-maximum-bombs) |
 | [2145-grid-game](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2145-grid-game) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -263,6 +264,7 @@
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
