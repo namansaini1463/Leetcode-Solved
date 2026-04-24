@@ -72,6 +72,7 @@
 | [1980-find-unique-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1980-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2833-furthest-point-from-origin) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3447-clear-digits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3447-clear-digits) |
 | [3713-longest-balanced-substring-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3713-longest-balanced-substring-i) |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2833-furthest-point-from-origin](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
