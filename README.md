@@ -42,6 +42,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -381,6 +382,7 @@
 | [1911-maximum-alternating-subsequence-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2463-minimum-total-distance-traveled](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2463-minimum-total-distance-traveled) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Topological Sort
 |  |
 | ------- |
