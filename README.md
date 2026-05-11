@@ -37,6 +37,7 @@
 | [2462-total-cost-to-hire-k-workers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2463-minimum-total-distance-traveled](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2553-separate-the-digits-in-an-array) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2615-sum-of-distances) |
 | [2685-first-completely-painted-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2685-first-completely-painted-row-or-column) |
@@ -222,6 +223,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3447-clear-digits) |
