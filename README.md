@@ -15,6 +15,7 @@
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
 | [1200-minimum-absolute-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [1306-jump-game-iii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1306-jump-game-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-string-matching-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -166,6 +167,7 @@
 | [0802-find-eventual-safe-states](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
+| [1306-jump-game-iii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1306-jump-game-iii) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1462-course-schedule-iv](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1462-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -196,6 +198,7 @@
 | [0802-find-eventual-safe-states](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1306-jump-game-iii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1306-jump-game-iii) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1462-course-schedule-iv](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1462-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
