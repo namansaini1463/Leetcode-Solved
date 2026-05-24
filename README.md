@@ -63,6 +63,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
@@ -279,6 +280,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -385,6 +387,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
 | [0773-sliding-puzzle](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0773-sliding-puzzle) |
