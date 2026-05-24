@@ -68,6 +68,7 @@
 | [0131-palindrome-partitioning](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 | [0399-evaluate-division](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0433-minimum-genetic-mutation) |
+| [0647-palindromic-substrings](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
 | [0752-open-the-lock](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0752-open-the-lock) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1061-lexicographically-smallest-equivalent-string) |
@@ -278,6 +279,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -384,6 +386,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
+| [0647-palindromic-substrings](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
 | [0773-sliding-puzzle](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
