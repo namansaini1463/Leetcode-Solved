@@ -67,6 +67,7 @@
 | [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0399-evaluate-division](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0516-longest-palindromic-subsequence) |
@@ -392,6 +393,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
 | [0773-sliding-puzzle](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0773-sliding-puzzle) |
