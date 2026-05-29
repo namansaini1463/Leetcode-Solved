@@ -246,6 +246,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
@@ -392,6 +393,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0516-longest-palindromic-subsequence) |
@@ -444,4 +446,8 @@
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0773-sliding-puzzle) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
