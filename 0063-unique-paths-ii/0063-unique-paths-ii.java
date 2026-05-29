@@ -16,17 +16,46 @@ class Solution {
 
     }
 
-    public int uniquePathsWithObstacles(int[][] obstacleGrid) {
-        this.n = obstacleGrid.length;
-        this.m = obstacleGrid[0].length;
+    public int uniquePathsWithObstacles(int[][] grid) {
+        this.n = grid.length;
+        this.m = grid[0].length;
 
-        this.grid = obstacleGrid;
+        // this.grid = obstacleGrid;
         this.dp = new int[n+1][m+1];
-        
-        for(int i = 0; i <= n; i++){
-            Arrays.fill(dp[i], -1);
+
+        // Starting cell
+        if (grid[0][0] == 1) {
+            return 0;
         }
 
-        return f(0, 0);
+        dp[0][0] = 1;
+
+        // First column
+        for (int i = 1; i < n; i++) {
+            if (grid[i][0] == 0) {
+                dp[i][0] = dp[i - 1][0];
+            }
+        }
+
+        // First row
+        for (int j = 1; j < m; j++) {
+            if (grid[0][j] == 0) {
+                dp[0][j] = dp[0][j - 1];
+            }
+        }
+
+        for(int i = 1; i < n; i++){
+            for(int j = 1; j < m; j++){
+                if(grid[i][j] == 1) dp[i][j] = 0;
+                else dp[i][j] = dp[i-1][j] + dp[i][j-1];
+            }
+        }
+
+        // for(int i = 0; i < n; i++){
+        //     System.out.println(Arrays.toString(dp[i]));
+        // }
+
+        return dp[n-1][m-1];
+        // return f(0, 0);
     }
 }
