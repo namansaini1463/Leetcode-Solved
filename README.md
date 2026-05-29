@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0001-two-sum) |
+| [0063-unique-paths-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0063-unique-paths-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0399-evaluate-division](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0399-evaluate-division) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -127,6 +128,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0063-unique-paths-ii) |
 | [0773-sliding-puzzle](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -394,6 +396,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0063-unique-paths-ii) |
 | [0131-palindrome-partitioning](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0516-longest-palindromic-subsequence) |
