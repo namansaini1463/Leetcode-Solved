@@ -76,6 +76,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
 | [0752-open-the-lock](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0752-open-the-lock) |
+| [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1524-string-matching-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-string-matching-in-an-array) |
@@ -104,6 +105,7 @@
 | [0133-clone-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0133-clone-graph) |
 | [0433-minimum-genetic-mutation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0752-open-the-lock) |
+| [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -229,6 +231,7 @@
 ## Counting
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2833-furthest-point-from-origin](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3713-longest-balanced-substring-i) |
@@ -300,6 +303,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -307,6 +311,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [1200-minimum-absolute-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -388,6 +393,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
