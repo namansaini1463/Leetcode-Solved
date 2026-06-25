@@ -64,6 +64,7 @@
 | [3607-power-grid-maintenance](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3607-power-grid-maintenance) |
 | [3637-trionic-array-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [3488-closest-equal-element-queries](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3488-closest-equal-element-queries) |
 | [3607-power-grid-maintenance](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3607-power-grid-maintenance) |
 | [3713-longest-balanced-substring-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3546-equal-sum-grid-partition-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -237,6 +240,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2833-furthest-point-from-origin](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -441,6 +445,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0190-reverse-bits) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -467,4 +472,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0062-unique-paths) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
