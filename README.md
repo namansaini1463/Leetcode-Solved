@@ -81,6 +81,7 @@
 | [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-string-matching-in-an-array) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
@@ -110,6 +111,7 @@
 | [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1980-find-unique-binary-string) |
@@ -328,6 +330,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Graph Theory
 |  |
