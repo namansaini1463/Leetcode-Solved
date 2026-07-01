@@ -93,6 +93,7 @@
 | [2833-furthest-point-from-origin](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2833-furthest-point-from-origin) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3447-clear-digits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3447-clear-digits) |
 | [3713-longest-balanced-substring-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3713-longest-balanced-substring-i) |
 ## String Matching
@@ -119,6 +120,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3488-closest-equal-element-queries](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3488-closest-equal-element-queries) |
 | [3607-power-grid-maintenance](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3607-power-grid-maintenance) |
@@ -332,6 +334,7 @@
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Graph Theory
 |  |
 | ------- |
