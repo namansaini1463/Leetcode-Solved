@@ -20,7 +20,7 @@ class Solution {
                 int r = top[0], c = top[1];
                 int h = top[2];
 
-                if(h >= health) continue;
+                if(h >= health || h > dist[r][c]) continue;
 
                 if(r == n-1 && c == m-1) return true;
 
