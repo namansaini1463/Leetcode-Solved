@@ -1,83 +1,85 @@
-import java.util.*;
-
 class Solution {
-    int n;
 
-    public boolean find(int limit, List<List<int[]>> adj,
-                        boolean[] online, long k){
+    private static final long INF = Long.MAX_VALUE;
 
-        PriorityQueue<long[]> pq =
-            new PriorityQueue<>((a,b) -> Long.compare(a[0], b[0]));
-
+    public long dijkstra(List<List<int[]>> adj, int n, int threshold) {
         long[] dist = new long[n];
-        Arrays.fill(dist, Long.MAX_VALUE);
+        Arrays.fill(dist, INF);
+
+        PriorityQueue<long[]> pq = new PriorityQueue<>((a, b) -> Long.compare(a[1], b[1]));
+
         dist[0] = 0;
+        pq.offer(new long[]{0, 0});
 
-        pq.offer(new long[]{0,0});
+        while (!pq.isEmpty()) {
+            long[] cur = pq.poll();
 
-        while(!pq.isEmpty()){
-            long[] curr = pq.poll();
+            int u = (int) cur[0];
+            long d = cur[1];
 
-            long currCost = curr[0];
-            int node = (int) curr[1];
+            if (d != dist[u]) continue;
 
-            if(currCost > dist[node]) continue;
+            for (int[] edge : adj.get(u)) {
+                int v = edge[0];
+                int w = edge[1];
 
-            for(int[] nxt : adj.get(node)){
-                int nxtNode = nxt[0];
-                int cst = nxt[1];
+                // Only allow edges whose cost >= threshold
+                if (w < threshold) continue;
 
-                if(cst < limit) continue;
-                if(nxtNode != n-1 && !online[nxtNode]) continue;
-
-                long newCost = currCost + cst;
-
-                if(newCost < dist[nxtNode]){
-                    dist[nxtNode] = newCost;
-                    pq.offer(new long[]{newCost, nxtNode});
+                if (dist[u] + w < dist[v]) {
+                    dist[v] = dist[u] + w;
+                    pq.offer(new long[]{v, dist[v]});
                 }
             }
         }
 
-        return dist[n-1] <= k;
+        return dist[n - 1];
     }
 
-    public int findMaxPathScore(int[][] edges, boolean[] online, long k){
-        n = online.length;
+    private boolean isPossible(List<List<int[]>> adj, int n, int threshold, long k) {
+        return dijkstra(adj, n, threshold) <= k;
+    }
+
+    public int findMaxPathScore(int[][] edges, boolean[] online, long k) {
+        int n = online.length;
 
         List<List<int[]>> adj = new ArrayList<>();
-        for(int i=0;i<n;i++){
+        for (int i = 0; i < n; i++) {
             adj.add(new ArrayList<>());
         }
 
         int low = Integer.MAX_VALUE;
-        int high = 0;
+        int high = Integer.MIN_VALUE;
 
-        for(int[] e : edges){
-            int u = e[0];
-            int v = e[1];
-            int cst = e[2];
+        for (int[] edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
+            int w = edge[2];
 
-            adj.get(u).add(new int[]{v,cst});
-
-            low = Math.min(low,cst);
-            high = Math.max(high,cst);
+            if (online[u] && online[v]) {
+                adj.get(u).add(new int[]{v, w});
+                low = Math.min(low, w);
+                high = Math.max(high, w);
+            }
         }
 
-        int res = -1;
+        if (low == Integer.MAX_VALUE) {
+            return -1;
+        }
 
-        while(low <= high){
-            int mid = low + (high-low)/2;
+        int ans = -1;
 
-            if(find(mid,adj,online,k)){
-                res = mid;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (isPossible(adj, n, mid, k)) {
+                ans = mid;
                 low = mid + 1;
-            }
-            else{
+            } else {
                 high = mid - 1;
             }
         }
 
-        return res;
+        return ans;
     }
 }
