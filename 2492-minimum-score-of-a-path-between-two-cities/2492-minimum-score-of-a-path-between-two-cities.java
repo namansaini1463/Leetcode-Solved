@@ -1,77 +1,47 @@
 class Solution {
-    class DSU{
-        int n;
-        int[] parent;
-        int[] size;
-
-        int components;
-
-        public DSU(int n){
-            this.n = n;
-            this.parent = new int[n];
-            for(int i = 0; i < n; i++){
-                parent[i] = i;
-            }
-
-            this.size = new int[n];
-            Arrays.fill(size, 1);
-
-            this.components = 1;
-        }
-
-        public int findUltimateParent(int u){
-            if(parent[u] == u) return u;
-
-            return parent[u] = findUltimateParent(parent[u]);
-        }
-
-        public boolean find(int u, int v){
-            return findUltimateParent(u) == findUltimateParent(v);
-        }
-
-        public boolean union(int u, int v){
-            int parentU = findUltimateParent(u);
-            int parentV = findUltimateParent(v);
-
-            if(parentU == parentV) return false;
-
-            if(size[parentU] < size[parentV]){
-                size[parentV] += size[parentU];
-                parent[parentU] = parent[parentV];
-            } else {
-                size[parentU] += size[parentV];
-                parent[parentV] = parent[parentU];
-            }
-
-            components++;
-            return true;
-        }
-
-
-    }
-    
+    public final int INF = Integer.MAX_VALUE;
     public int minScore(int n, int[][] roads) {
-        DSU dsu = new DSU(n + 1);
+        List<List<int[]>> adj = new ArrayList<>();
 
-        int minimumScore = Integer.MAX_VALUE;
-
-        for(int[] road : roads){
-            int u = road[0], v = road[1], w = road[2];
-
-            dsu.union(u, v);
+        for(int i = 0; i <= n; i++){
+            adj.add(new ArrayList<>());
         }
 
         for(int[] road : roads){
             int u = road[0], v = road[1], w = road[2];
 
-            if(dsu.find(1, u)){ // sirf first component wale edges ka minimum weight
-                minimumScore = Math.min(minimumScore, w);
+            adj.get(u).add(new int[]{v, w});
+            adj.get(v).add(new int[]{u, w});
+        }
+
+        boolean[] visited = new boolean[n + 1];
+
+        Deque<int[]> q = new ArrayDeque<>();
+        q.offer(new int[]{1, INF});
+
+        int minimumScore = INF;
+
+        while(!q.isEmpty()){
+            int[] top = q.poll();
+
+            int currentNode = top[0];
+            int currentMinimum = top[1];
+
+            for(int[] adjNode : adj.get(currentNode)){
+                int nextNode = adjNode[0];
+                int nextCost = adjNode[1];
+
+                minimumScore = Math.min(minimumScore, nextCost);
+                
+                if(!visited[nextNode]){
+                    q.offer(new int[]{nextNode, Math.min(currentMinimum, nextCost)});
+                    visited[nextNode] = true;
+                }
             }
         }
 
-
-        // System.out.println(Arrays.toString(dsu.parent));
-        // System.out.println(dsu.components);
         return minimumScore;
+
+
     }
 }
