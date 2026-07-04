@@ -206,6 +206,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2360-longest-cycle-in-a-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -234,6 +235,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2360-longest-cycle-in-a-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3607-power-grid-maintenance](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3607-power-grid-maintenance) |
@@ -362,6 +364,7 @@
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [2392-build-a-matrix-with-conditions](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2392-build-a-matrix-with-conditions) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2699-modify-graph-edge-weights](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2699-modify-graph-edge-weights) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -409,6 +412,7 @@
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3607-power-grid-maintenance](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3607-power-grid-maintenance) |
 ## Heap (Priority Queue)
