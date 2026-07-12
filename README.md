@@ -186,6 +186,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
@@ -224,6 +225,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0399-evaluate-division) |
@@ -306,6 +308,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -314,6 +317,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
 ## Two Pointers
 |  |
