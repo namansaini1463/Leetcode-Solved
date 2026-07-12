@@ -19,6 +19,7 @@
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1301-number-of-paths-with-max-score](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1331-rank-transform-of-an-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-string-matching-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -116,6 +117,7 @@
 | [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1331-rank-transform-of-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -336,6 +338,7 @@
 | ------- |
 | [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [1200-minimum-absolute-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1331-rank-transform-of-an-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
