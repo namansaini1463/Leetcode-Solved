@@ -116,6 +116,7 @@
 | [0752-open-the-lock](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -199,6 +200,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1306-jump-game-iii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1306-jump-game-iii) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -235,6 +237,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0802-find-eventual-safe-states) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1306-jump-game-iii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1306-jump-game-iii) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -312,6 +315,7 @@
 | [0112-path-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
@@ -322,6 +326,7 @@
 | [0112-path-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0226-invert-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
