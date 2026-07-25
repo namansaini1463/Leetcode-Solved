@@ -298,6 +298,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3783-mirror-distance-of-an-integer) |
 ## Design
@@ -362,6 +363,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2463-minimum-total-distance-traveled) |
+| [3536-maximum-product-of-two-digits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Sliding Window
 |  |
