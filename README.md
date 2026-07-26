@@ -10,6 +10,7 @@
 | [0064-minimum-path-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0064-minimum-path-sum) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0399-evaluate-division](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0399-evaluate-division) |
+| [0628-maximum-product-of-three-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0773-sliding-puzzle) |
@@ -290,6 +291,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
+| [0628-maximum-product-of-three-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -355,6 +357,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [1200-minimum-absolute-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1331-rank-transform-of-an-array) |
