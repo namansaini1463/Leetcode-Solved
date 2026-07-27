@@ -21,6 +21,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-string-matching-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -361,6 +362,7 @@
 | [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [1200-minimum-absolute-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -459,6 +461,7 @@
 | [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2462-total-cost-to-hire-k-workers) |
