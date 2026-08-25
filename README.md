@@ -74,6 +74,7 @@
 | [3637-trionic-array-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -140,6 +141,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3607-power-grid-maintenance](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3607-power-grid-maintenance) |
 | [3713-longest-balanced-substring-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3713-longest-balanced-substring-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
