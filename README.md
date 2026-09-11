@@ -65,6 +65,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-unique-3-digit-even-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3488-closest-equal-element-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -140,6 +141,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-unique-3-digit-even-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3607-power-grid-maintenance](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3607-power-grid-maintenance) |
@@ -528,6 +530,7 @@
 | ------- |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3713-longest-balanced-substring-i) |
@@ -540,6 +543,7 @@
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
