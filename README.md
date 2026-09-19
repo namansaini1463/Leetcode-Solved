@@ -12,6 +12,7 @@
 | [0289-game-of-life](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0289-game-of-life) |
 | [0399-evaluate-division](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0399-evaluate-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0773-sliding-puzzle) |
@@ -399,6 +400,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
