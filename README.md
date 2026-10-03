@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0131-palindrome-partitioning) |
@@ -303,6 +304,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3447-clear-digits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3447-clear-digits) |
 ## Math
@@ -507,6 +509,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0064-minimum-path-sum) |
@@ -588,4 +591,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
