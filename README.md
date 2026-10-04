@@ -96,6 +96,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
@@ -305,6 +306,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3447-clear-digits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3447-clear-digits) |
 ## Math
@@ -378,6 +380,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -517,6 +520,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0773-sliding-puzzle](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1301-number-of-paths-with-max-score) |
@@ -595,4 +599,5 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
