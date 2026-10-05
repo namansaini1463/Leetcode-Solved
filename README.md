@@ -100,6 +100,7 @@
 | [0752-open-the-lock](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0839-similar-string-groups) |
+| [0856-score-of-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0856-score-of-parentheses) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-string-matching-in-an-array) |
@@ -307,6 +308,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0856-score-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3447-clear-digits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3447-clear-digits) |
 ## Math
@@ -600,4 +602,5 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
