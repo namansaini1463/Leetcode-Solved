@@ -106,6 +106,7 @@
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-string-matching-in-an-array) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -313,6 +314,7 @@
 | [0678-valid-parenthesis-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3447-clear-digits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3447-clear-digits) |
 ## Math
@@ -388,6 +390,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0767-reorganize-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -609,4 +612,5 @@
 | [0678-valid-parenthesis-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
