@@ -46,6 +46,7 @@
 | [2145-grid-game](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2145-grid-game) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-build-a-matrix-with-conditions](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2392-build-a-matrix-with-conditions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2463-minimum-total-distance-traveled](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2463-minimum-total-distance-traveled) |
@@ -395,6 +396,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
@@ -408,6 +410,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2463-minimum-total-distance-traveled) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -480,6 +483,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3488-closest-equal-element-queries](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -512,6 +516,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2699-modify-graph-edge-weights](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2699-modify-graph-edge-weights) |
