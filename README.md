@@ -59,6 +59,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -149,6 +150,7 @@
 | [2615-sum-of-distances](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2615-sum-of-distances) |
 | [2685-first-completely-painted-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -603,6 +605,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -620,4 +623,8 @@
 | [0856-score-of-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
