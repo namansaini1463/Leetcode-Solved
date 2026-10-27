@@ -44,6 +44,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2101-detonate-the-maximum-bombs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2145-grid-game](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2145-grid-game) |
+| [2187-minimum-time-to-complete-trips](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2187-minimum-time-to-complete-trips) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -488,6 +489,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2187-minimum-time-to-complete-trips](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2187-minimum-time-to-complete-trips) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3488-closest-equal-element-queries](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
