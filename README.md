@@ -80,6 +80,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3607-power-grid-maintenance](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
@@ -205,6 +206,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
 |  |
@@ -258,6 +260,7 @@
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3607-power-grid-maintenance](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -290,6 +293,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3607-power-grid-maintenance](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union Find
 |  |
 | ------- |
@@ -514,6 +518,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3607-power-grid-maintenance](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3607-power-grid-maintenance) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
