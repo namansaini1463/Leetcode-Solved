@@ -11,6 +11,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0289-game-of-life](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0289-game-of-life) |
 | [0399-evaluate-division](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0399-evaluate-division) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0643-maximum-average-subarray-i) |
@@ -337,6 +338,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0067-add-binary) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
