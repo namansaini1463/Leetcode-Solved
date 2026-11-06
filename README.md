@@ -58,6 +58,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2615-sum-of-distances) |
 | [2685-first-completely-painted-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2685-first-completely-painted-row-or-column) |
+| [2747-count-zero-request-servers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2747-count-zero-request-servers) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -155,6 +156,7 @@
 | [1980-find-unique-binary-string](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2615-sum-of-distances) |
 | [2685-first-completely-painted-row-or-column](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2685-first-completely-painted-row-or-column) |
+| [2747-count-zero-request-servers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2747-count-zero-request-servers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -429,6 +431,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3536-maximum-product-of-two-digits) |
@@ -442,6 +445,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2747-count-zero-request-servers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2747-count-zero-request-servers) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/namansaini1463/Leetcode-Solved/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Graph Theory
 |  |
