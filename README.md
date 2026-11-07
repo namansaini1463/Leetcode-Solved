@@ -37,6 +37,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1876-map-of-highest-peak](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1882-process-tasks-using-servers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -539,6 +540,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1882-process-tasks-using-servers) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2462-total-cost-to-hire-k-workers) |
