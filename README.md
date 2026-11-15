@@ -29,6 +29,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-string-matching-in-an-array](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-string-matching-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1732-find-the-highest-altitude) |
 | [2145-grid-game](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2145-grid-game) |
 | [2615-sum-of-distances](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2615-sum-of-distances) |
@@ -351,6 +353,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/namansaini1463/Leetcode-Solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1477-product-of-the-last-k-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-product-of-the-last-k-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2101-detonate-the-maximum-bombs](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2101-detonate-the-maximum-bombs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/namansaini1463/Leetcode-Solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -572,6 +575,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/namansaini1463/Leetcode-Solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
